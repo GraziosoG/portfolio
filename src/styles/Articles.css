@@ -1,0 +1,51 @@
+.articles {
+    width: 100%;
+    height: auto;
+    /*background: rgb(104, 102, 102);*/
+    background: #1f473a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    /*padding-top: 0px;
+    margin-top: 50px;*/
+}
+
+.articleTitle {
+    color: #fff;
+    font-size: 40px;
+}
+
+.articleItem {
+    width: 60%;
+    padding-bottom: 30px;
+}
+
+.articleLink {
+    text-decoration: none;
+}
+
+.articleSubtitle {
+    color: #e6e6e6;
+}
+  
+.articleDate {
+    color: #b4b4b4;
+    font-style: italic;
+}
+
+.articleExp {
+    color: #cfcfcf;
+}
+
+.articleImg {
+    border-radius: 10px;
+}
+
+@media only screen and (max-width: 900px) {
+    .articles {
+        text-align: center;
+    }
+}

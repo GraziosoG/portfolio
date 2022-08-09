@@ -1,0 +1,41 @@
+.greetings {
+    width: 100%;
+    height: 100vh;
+    background: #1d3154;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    /*padding-top: 0px;
+    margin-top: 50px;*/
+}
+
+.greetingsTitle {
+    color: #b882fa;
+    font-size: 40px;
+}
+
+.greetingsIntro {
+    color: #e6e6e6;
+    font-size: 20px;  
+}
+
+.greetingsLink svg{
+    color: white;
+    margin: 20px;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 700px) {
+    .greetingsTitle {
+        color: #c8aee8;
+        font-size: 32px;
+    }
+
+    .greetingsTitle span {
+        display: flex;
+        flex-direction: column;
+    }
+}

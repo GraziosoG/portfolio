@@ -1,5 +1,16 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# my files
+/src/assets/bbq.JPG
+/src/assets/cap.jpg
+/src/assets/downtown-close.jpg
+/src/assets/downtown-far.jpg
+/src/assets/grad.JPG
+/src/assets/iot-diagram.PNG
+/src/assets/locateme.PNG
+/src/assets/nocap.jpg
+/src/assets/poster.JPG
+
 # dependencies
 /node_modules
 /.pnp
