@@ -1,19 +1,19 @@
 {
-  "short_name": "React App",
+  "short_name": "Grace",
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "star_64_64.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "star_192_192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "star_512_512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
