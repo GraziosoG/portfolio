@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.07e0f687.css",
-    "main.js": "/portfolio/static/js/main.ce5cafd3.js",
+    "main.js": "/portfolio/static/js/main.5eedeeb2.js",
     "static/js/787.42342f47.chunk.js": "/portfolio/static/js/787.42342f47.chunk.js",
     "static/media/iot-android.PNG": "/portfolio/static/media/iot-android.33de845a1cb3bb6e10a6.PNG",
     "static/media/bbq.JPG": "/portfolio/static/media/bbq.2ee5295b0804c5c4cddf.JPG",
@@ -11,11 +11,11 @@
     "static/media/metro-fare.PNG": "/portfolio/static/media/metro-fare.8b1f60c75787007d4bf5.PNG",
     "index.html": "/portfolio/index.html",
     "main.07e0f687.css.map": "/portfolio/static/css/main.07e0f687.css.map",
-    "main.ce5cafd3.js.map": "/portfolio/static/js/main.ce5cafd3.js.map",
+    "main.5eedeeb2.js.map": "/portfolio/static/js/main.5eedeeb2.js.map",
     "787.42342f47.chunk.js.map": "/portfolio/static/js/787.42342f47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07e0f687.css",
-    "static/js/main.ce5cafd3.js"
+    "static/js/main.5eedeeb2.js"
   ]
 }
