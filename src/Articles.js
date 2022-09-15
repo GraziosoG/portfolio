@@ -27,13 +27,22 @@ const Articles = React.forwardRef((props, ref) => {
                     The news article highlights the first-ever CONNECT project showcase held on April 21, 2022 and 
                     the recognition of me winning the Community Choice Award.
                 </p>
+            </div>        
+            
+            <div className="articleItem">
+                <a className="articleLink" href="https://medium.com/@shete.harshika/credit-card-default-detection-kaggle-a47c6bb5a35e">
+                <h3 className="articleSubtitle">Credit Card Default Prediction <BsBoxArrowUpRight/></h3></a>
+                <span className="articleDate">Dec 10, 2021</span>
+                <p className="articleExp">
+                    The article explains the process to detect a person would default on their credit card payment next month, 
+                    using techniques ranging from <b>exploratory data analysis, data process pipeline creation, model and 
+                    hyperparameter tuning, to model ensemble</b>. 
+                </p>
             </div>
 
             <div className="articleImages">
                 <img className="articleImg" src={showcase} width="440" height="264" alt="showcase"></img>
-            </div>
-            
-                     
+            </div>     
         </div>
     )
 })

@@ -13,7 +13,7 @@ const Skills = React.forwardRef((props, ref) => {
     
             <div className="skillsItem">
                 <h2 className="skillsSubtitle">Technical Skills</h2>
-                <p className="skillsList">CI/CD, Azure, Agile Development, Git, Rest APIs, Pandas, NumPy, Scikit-learn, Excel</p>
+                <p className="skillsList">CI/CD, Azure, Agile Development, Git, Rest APIs, Pandas, NumPy, Scikit-learn, Tensorflow, Excel</p>
             </div>
             
         </div>
